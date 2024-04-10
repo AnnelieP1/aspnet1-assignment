@@ -1,0 +1,17 @@
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Infrastructure.WebApi.deps.json
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Infrastructure.WebApi.runtimeconfig.json
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Infrastructure.WebApi.dll
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Infrastructure.WebApi.pdb
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Shared.dll
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\bin\Debug\net8.0\Shared.pdb
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.csproj.AssemblyReference.cache
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.AssemblyInfoInputs.cache
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.AssemblyInfo.cs
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.csproj.CoreCompileInputs.cache
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastr.D2272D69.Up2Date
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.dll
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\refint\Infrastructure.WebApi.dll
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.pdb
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\Infrastructure.WebApi.genruntimeconfig.cache
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApi\obj\Debug\net8.0\ref\Infrastructure.WebApi.dll
