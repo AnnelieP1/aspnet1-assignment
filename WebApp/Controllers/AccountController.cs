@@ -1,47 +1,71 @@
-﻿using Infrastructure.WebApp.Services;
+﻿
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using WebApp.Services;
 using WebApp.ViewModels;
 
 namespace WebApp.Controllers;
-
+[Authorize]
 public class AccountController(AccountService accountService) : Controller
 {
     private readonly AccountService _accountService = accountService;
 
-    public IActionResult Details()
+    public async Task<IActionResult> Details()
     {
-        return View();
+        var user = await _accountService.GetUserAsync(User);
+
+        var viewModel = new AccountDetailsViewModel
+        {
+            BasicInfo = new AccountBasicInfoViewModel
+            {
+                FirstName = user.FirstName!,
+                LastName = user.LastName!,
+                Email = user.Email!,
+                Phonenumber = user.PhoneNumber,
+                Biography = user.Bio,
+            },
+            AddressInfo = new AccountAddressInfoViewModel
+            {
+                AddressLine_1 = user.AddressLine_1!,
+                AddressLine_2 = user.AddressLine_2!,
+                PostalCode = user.PostalCode!,
+                City = user.City!
+            }
+
+                
+            
+        };
+        return View(viewModel);
     }
 
     [HttpPost]
-    public IActionResult UpdateBasicInfo(AccountDetailsViewModel viewModel)
+    public async Task<IActionResult> UpdateBasicInfo(AccountDetailsViewModel model)
     {
-        if (TryValidateModel(viewModel.BasicInfo!))
-        {
-            // uppdatera användaren och uppdatera databasen
 
-            return RedirectToAction("Details");
-        }
-        else
+        if (model.BasicInfo != null)
         {
-            return View("Details", viewModel);
+            if (!string.IsNullOrEmpty(model.BasicInfo.FirstName) && !string.IsNullOrEmpty(model.BasicInfo.LastName))
+            {
+                var result = await _accountService.UpdateBasicInfoAsync(User, model.BasicInfo);
+            }
         }
+
+            return RedirectToAction("Details", "Account");  
 
     }
 
     [HttpPost]
-    public IActionResult UpdateAddressInfo(AccountDetailsViewModel viewModel)
+    public async Task<IActionResult> UpdateAddressInfo(AccountDetailsViewModel model)
     {
-        if (TryValidateModel(viewModel.AddressInfo!))
+        if (model.AddressInfo != null)
         {
-            // uppdatera användarens adress och uppdatera databasen
+            if (!string.IsNullOrEmpty(model.AddressInfo.AddressLine_1) && !string.IsNullOrEmpty(model.AddressInfo.PostalCode) && !string.IsNullOrEmpty(model.AddressInfo.City))
+            {
+                var result = await _accountService.UpdateAddressInfoAsync(User, model.AddressInfo);
+            }
+        }
 
-            return RedirectToAction("Details");
-        }
-        else
-        {
-            return View("Details", viewModel);
-        }
+            return RedirectToAction("Details", "Account");
 
     }
 

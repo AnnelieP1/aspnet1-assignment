@@ -16,6 +16,6 @@ public class AccountAddressInfoViewModel
     public string PostalCode { get; set; } = null!;
 
     [Required(ErrorMessage = "You must enter a city")]
-    [Display(Name = "Addressline 1", Prompt = "Enter your city")]
+    [Display(Name = "City", Prompt = "Enter your city")]
     public string City { get; set; } = null!;
 }

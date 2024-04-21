@@ -15,3 +15,4 @@ C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApp\obj\Debug\net8.0\refi
 C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApp\obj\Debug\net8.0\Infrastructure.WebApp.pdb
 C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApp\obj\Debug\net8.0\Infrastructure.WebApp.genruntimeconfig.cache
 C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApp\obj\Debug\net8.0\ref\Infrastructure.WebApp.dll
+C:\school\aspnet1-assignment\Silicon\Infrastructure.WebApp\obj\Debug\net8.0\Infrastructure.WebApp.sourcelink.json

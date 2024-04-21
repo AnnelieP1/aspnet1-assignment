@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="Views\Partials\" />
-    <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 
@@ -25,6 +24,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>

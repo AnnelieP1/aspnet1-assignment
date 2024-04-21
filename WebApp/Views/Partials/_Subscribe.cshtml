@@ -1,50 +1,67 @@
-﻿<section class="subscribe">
+﻿@model SubscribeViewModel
+
+<section class="subscribe">
     <div class="container">
         <div class="title">
             <h2>Don't Want to Miss Anything?</h2>
             <img src="images/subscribearrow.svg" alt="">
         </div>
-        <div class="newsletters">
-            <h4>Sign up for Newsletters</h4>
-            <div class="alternative">
-                <div class="input-group">
-                    <input type="checkbox">
-                    <label for="Daily Newsletter">Daily Newsletter</label>
+        <form method="post" asp-action="Subscribe" asp-controller="Default">
+            <div class="newsletters">
+                <h4>Sign up for Newsletters</h4>
+                <div class="alternative">
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="DailyNewsletter">
+                            <label asp-for="DailyNewsletter">Daily Newsletter</label>
+                        </div>
+                    </div>
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="AdvertisingUpdates">
+                            <label asp-for="AdvertisingUpdates">Advertising Updates</label>
+                        </div>
+                    </div>
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="WeekinReview">
+                            <label asp-for="WeekinReview">Week in Review</label>
+                        </div>
+                    </div>
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="EventUpdates">
+                            <label asp-for="EventUpdates">Event Updates</label>
+                        </div>
+                    </div>
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="StartupsWeekly">
+                            <label asp-for="StartupsWeekly">Startups weekly</label>
+                        </div>
+                    </div>
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="StartupsWeekly">
+                            <label asp-for="StartupsWeekly">Startups weekly</label>
+                        </div>
+                    </div>
                 </div>
-                <div class="input-group">
-                    <input class="box" type="checkbox">
-                    <label for="Daily Newsletter">Advertising Updates</label>
-                </div>
-                <div class="input-group">
-                    <input type="checkbox">
-                    <label for="Week in Review">Week in Review</label>
-                </div>
-                <div class="input-group">
-                    <input type="checkbox">
-                    <label for="Event Updates">Event Updates</label>
-                </div>
-                <div class="input-group">
-                    <input type="checkbox">
-                    <label for="Startups weekly">Startups weekly</label>
-                </div>
-                <div class="input-group">
-                    <input type="checkbox">
-                    <label for="Podcasts">Podcasts</label>
+
+            </div>
+            <div class="emailsubscribe">
+                <div class="email">
+
+                    <img src="images/email-icon.svg" alt="">
+                    <input asp-for="Email" placeholder="Enter your email">
+
+                    <button class="btn btn-theme" type="submit">Subscribe*</button>
                 </div>
             </div>
-
-        </div>
-        <div class="emailsubscribe">
-            <div class="email">
-
-                <img src="images/email-icon.svg" alt="">
-                <input type="Email" placeholder="Enter your email">
-
-                <button class="btn btn-theme" type="submit">Subscribe*</button>
+            <div class="terms">
+                <span class="info-star">*</span> Yes, I agree to the <a href="#">terms</a> and <a href="#">privacy policy</a>.
             </div>
-        </div>
-        <div class="terms">
-            <span class="info-star">*</span> Yes, I agree to the <a href="#">terms</a> and <a href="#">privacy policy</a>.
-        </div>
+        </form>
+        
     </div>
 </section>

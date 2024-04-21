@@ -142,3 +142,5 @@ C:\school\aspnet1-assignment\Silicon\WebApp\obj\Debug\net8.0\refint\WebApp.dll
 C:\school\aspnet1-assignment\Silicon\WebApp\obj\Debug\net8.0\WebApp.pdb
 C:\school\aspnet1-assignment\Silicon\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 C:\school\aspnet1-assignment\Silicon\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\school\aspnet1-assignment\Silicon\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\school\aspnet1-assignment\Silicon\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll

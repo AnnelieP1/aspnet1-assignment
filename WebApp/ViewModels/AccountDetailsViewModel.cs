@@ -2,6 +2,6 @@
 
 public class AccountDetailsViewModel
 {
-    public AccountBasicInfoViewModel? BasicInfo { get; set; }
-    public AccountAddressInfoViewModel? AddressInfo { get; set; }
+    public AccountBasicInfoViewModel BasicInfo { get; set; } = null!;
+    public AccountAddressInfoViewModel AddressInfo { get; set; } = null!;
 }

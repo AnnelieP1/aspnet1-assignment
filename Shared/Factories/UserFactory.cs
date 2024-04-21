@@ -47,4 +47,19 @@ public class UserFactory
         return null!;
     }
 
+    public static IEnumerable<User> Create(List<UserEntity> list) 
+    {
+        var users = new List<User>();
+
+        try
+        {
+            foreach (var user in list)
+                users.Add(Create(user));
+        }
+        catch { }
+        return users;
+    
+    
+    }
+
 }

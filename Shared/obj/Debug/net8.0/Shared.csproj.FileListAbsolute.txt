@@ -10,3 +10,4 @@ C:\school\aspnet1-assignment\Silicon\Shared\obj\Debug\net8.0\Shared.dll
 C:\school\aspnet1-assignment\Silicon\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\school\aspnet1-assignment\Silicon\Shared\obj\Debug\net8.0\Shared.pdb
 C:\school\aspnet1-assignment\Silicon\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\school\aspnet1-assignment\Silicon\Shared\obj\Debug\net8.0\Shared.sourcelink.json

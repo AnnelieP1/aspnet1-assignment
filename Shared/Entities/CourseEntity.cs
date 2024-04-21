@@ -21,4 +21,6 @@ public class CourseEntity
     public string LikesInProcent { get; set; } = null!;
     public string LikesInNumbers { get; set; } = null!;
 
+    public int? CategoryId { get; set; }
+    public CategoryEntity? Category { get; set; }
 }

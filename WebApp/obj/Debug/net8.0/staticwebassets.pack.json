@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_app-downloads.scss"
     },
     {
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_course.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_course.scss"
+    },
+    {
       "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_features.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
     },
@@ -145,40 +149,40 @@
       "PackagePath": "staticwebassets\\images\\courseimages\\clock.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image1.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image1.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_1.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_1.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image2.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image2.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_2.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_2.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image3.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image3.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_3.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_3.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image4.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image4.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_4.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_4.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image5.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image5.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_5.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_5.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image6.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image6.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_6.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_6.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image7.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image7.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_7.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_7.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image8.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image8.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_8.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_8.svg"
     },
     {
-      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image9.svg",
-      "PackagePath": "staticwebassets\\images\\courseimages\\image9.svg"
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_9.svg",
+      "PackagePath": "staticwebassets\\images\\courseimages\\course_9.svg"
     },
     {
       "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\liketumbupp.svg",
@@ -327,6 +331,22 @@
     {
       "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_e226ad91-aefc-4c6f-b698-f1ab0561ed23_cadff09d-b0c8-4440-b692-83dd4efdc01f.jpg",
       "PackagePath": "staticwebassets\\uploads\\p_e226ad91-aefc-4c6f-b698-f1ab0561ed23_cadff09d-b0c8-4440-b692-83dd4efdc01f.jpg"
+    },
+    {
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_1d6ad8a9-3cae-41e0-829c-70af8e4de62f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_1d6ad8a9-3cae-41e0-829c-70af8e4de62f.jpg"
+    },
+    {
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_6f2ec768-aa95-4eff-90bb-71a6c9afaeef.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_6f2ec768-aa95-4eff-90bb-71a6c9afaeef.jpg"
+    },
+    {
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_9c4526c4-db37-46a4-aabd-0ab4f4f4b71f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_9c4526c4-db37-46a4-aabd-0ab4f4f4b71f.jpg"
+    },
+    {
+      "Id": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_ccb48783-d620-4edb-abdd-083649f03884.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_ccb48783-d620-4edb-abdd-083649f03884.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",

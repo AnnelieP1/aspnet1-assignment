@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i2gTN7wMf73oknz/ELBqT95g4Oceefu4m58qjXBP1Lk=",
+  "Hash": "bJLTKb/iaskJWwbQxFL9yuIifuSLRHylDTqjr7+4Uy8=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -281,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_app-downloads.scss"
+    },
+    {
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_course.scss",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/scss/sections/_course.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_course.scss"
     },
     {
       "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_features.scss",
@@ -682,12 +701,12 @@
       "OriginalItemSpec": "wwwroot\\images\\courseimages\\clock.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image1.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_1.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image1.svg",
+      "RelativePath": "images/courseimages/course_1.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image1.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_1.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image2.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_2.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image2.svg",
+      "RelativePath": "images/courseimages/course_2.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +736,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image2.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_2.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image3.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_3.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image3.svg",
+      "RelativePath": "images/courseimages/course_3.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,15 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image3.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_3.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image4.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_4.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image4.svg",
+      "RelativePath": "images/courseimages/course_4.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,15 +774,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image4.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_4.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image5.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_5.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image5.svg",
+      "RelativePath": "images/courseimages/course_5.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -774,15 +793,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image5.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_5.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image6.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_6.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image6.svg",
+      "RelativePath": "images/courseimages/course_6.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,15 +812,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image6.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_6.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image7.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_7.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image7.svg",
+      "RelativePath": "images/courseimages/course_7.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image7.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_7.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image8.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_8.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image8.svg",
+      "RelativePath": "images/courseimages/course_8.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image8.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_8.svg"
     },
     {
-      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\image9.svg",
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\course_9.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/courseimages/image9.svg",
+      "RelativePath": "images/courseimages/course_9.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,7 +869,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\courseimages\\image9.svg"
+      "OriginalItemSpec": "wwwroot\\images\\courseimages\\course_9.svg"
     },
     {
       "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\images\\courseimages\\liketumbupp.svg",
@@ -1573,6 +1592,82 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\p_e226ad91-aefc-4c6f-b698-f1ab0561ed23_cadff09d-b0c8-4440-b692-83dd4efdc01f.jpg"
+    },
+    {
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_1d6ad8a9-3cae-41e0-829c-70af8e4de62f.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "uploads/p_fedad82b-9565-4553-b7e3-22a5bfa007a5_1d6ad8a9-3cae-41e0-829c-70af8e4de62f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_1d6ad8a9-3cae-41e0-829c-70af8e4de62f.jpg"
+    },
+    {
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_6f2ec768-aa95-4eff-90bb-71a6c9afaeef.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "uploads/p_fedad82b-9565-4553-b7e3-22a5bfa007a5_6f2ec768-aa95-4eff-90bb-71a6c9afaeef.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_6f2ec768-aa95-4eff-90bb-71a6c9afaeef.jpg"
+    },
+    {
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_9c4526c4-db37-46a4-aabd-0ab4f4f4b71f.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "uploads/p_fedad82b-9565-4553-b7e3-22a5bfa007a5_9c4526c4-db37-46a4-aabd-0ab4f4f4b71f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_9c4526c4-db37-46a4-aabd-0ab4f4f4b71f.jpg"
+    },
+    {
+      "Identity": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_ccb48783-d620-4edb-abdd-083649f03884.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\school\\aspnet1-assignment\\Silicon\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "uploads/p_fedad82b-9565-4553-b7e3-22a5bfa007a5_ccb48783-d620-4edb-abdd-083649f03884.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\p_fedad82b-9565-4553-b7e3-22a5bfa007a5_ccb48783-d620-4edb-abdd-083649f03884.jpg"
     }
   ]
 }

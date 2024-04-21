@@ -7,4 +7,8 @@ namespace Infrastructure.WebApp.Contexts;
 public class ApplicationContext(DbContextOptions<ApplicationContext> options) : IdentityDbContext<UserEntity>(options)
 {
     public DbSet<AddressEntity> Addresses { get; set; }
+    public DbSet<UserEntity> User {  get; set; } 
+  
+   
+
 }
