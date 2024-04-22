@@ -1,12 +1,33 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\school\\aspnet1-assignment\\Silicon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__SCHOOL_ASPNET1_ASSIGNMENT_SILICON_INFRASTRUCTURE.WEBAPP_DATA_WEBAPP_DATABASE.MDF/True/SqlTable/dbo.Addresses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Addresses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__SCHOOL_ASPNET1_ASSIGNMENT_SILICON_INFRASTRUCTURE.WEBAPP_DATA_WEBAPP_DATABASE.MDF/True/SqlTable/dbo.Addresses.sql",
+              "ToolTip": "dbo.Addresses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-22T10:18:31.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

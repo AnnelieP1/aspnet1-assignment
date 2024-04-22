@@ -847,7 +847,7 @@ header .container .btn-menu {
   position: absolute;
   top: 1rem;
   left: 1rem;
-  background-color: var(--color-succsess-dark);
+  background-color: var(--color-success-dark);
   color: var(--color-white);
   padding: 4px 12px;
   border-radius: 4px;
